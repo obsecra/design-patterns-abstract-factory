@@ -1,0 +1,5 @@
+code is in perl (devel on linux, should work with strawberry perl on windows)
+
+run.pl will run a simple sample of each class
+
+class code grouped by pattern name in "./lib/Go4" dir
